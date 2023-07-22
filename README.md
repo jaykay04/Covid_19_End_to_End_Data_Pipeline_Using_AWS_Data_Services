@@ -15,3 +15,5 @@ We want Our Data Analysts and Data Scientists to have the capability to easily a
 
 ### About the Dataset
 The Covid_19 dataset is a harmonized collection of the core data pertaining to COVID-19 reported cases by geography, in a format prepared for analysis.
+
+### Project Architecture
